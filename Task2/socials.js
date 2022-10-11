@@ -1,4 +1,10 @@
 [
+  shrutigajbhiye22_socials = {
+    "twitter_handle": "Shruti Gajbhiye",
+    "likedin_handle": "Shruti Gajbhiye",
+    "telegram_handle": "Shruti Gajbhiye",
+    "instagram": "Shruti Gajbhiye"
+},
     spykelionel_socials = {
         "twitter_handle": "spykelionel",
         "likedin_handle": "ndilionel6",
