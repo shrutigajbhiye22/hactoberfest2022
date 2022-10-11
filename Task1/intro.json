@@ -1,5 +1,11 @@
 [
   {
+    "name": "Shruti Gajbhiye",
+    "github_handle": "shrutigajbhiye22",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
     "hacktoberfest_round": "second",
@@ -360,4 +366,5 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+  
 ]
